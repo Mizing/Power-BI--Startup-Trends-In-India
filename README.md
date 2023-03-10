@@ -5,7 +5,7 @@
 
 ## 📚 Table of Contents
 - [Business Task](#business-task)
-- [Solution](https://app.powerbi.com/groups/me/reports/5bc4ec2c-31cc-4907-82bb-fc77a285b34d/ReportSection)
+- [Solution](https://www.novypro.com/project/power-bi-91)
 
 ## Business Task
 Conducted comparative analysis of startups based on industry vertical, funding type, and location.
